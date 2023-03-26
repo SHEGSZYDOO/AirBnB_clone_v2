@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Configures a web server for deployment of web_static.
 
 # Nginx configuration file
